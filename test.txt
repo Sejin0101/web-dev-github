@@ -1,0 +1,3 @@
+This is my first commit! 커밋은 스냡샷
+
+And here we go with commit #2!
